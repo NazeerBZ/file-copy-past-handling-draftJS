@@ -3,6 +3,7 @@ import { AppProps } from 'next/app';
 import '@/styles/globals.css';
 // !STARTERCONF This is for demo purposes, remove @/styles/colors.css import immediately
 import '@/styles/colors.css';
+import 'draft-js/dist/Draft.css';
 
 /**
  * !STARTERCONF info
